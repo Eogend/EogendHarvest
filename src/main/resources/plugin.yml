@@ -1,0 +1,6 @@
+name: EogendHarvest
+version: 1.0.0
+author: LavaPower
+main: fr.lavapower.eogendharvest.EogendHarvest
+api-version: 1.19
+prefix: EogendHarvest
